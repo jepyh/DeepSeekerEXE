@@ -7,6 +7,7 @@ DOC\DOCX文档文本扩写脚本
 用pyinstaller -F .\DeepSeekerEXE.py打包文件为exe可执行文件
 
 执行EXE文件
+
 ![image](https://github.com/user-attachments/assets/148bbbd0-1d96-4688-b6dd-dac12bd4b138)
 选中需要扩写的文档。
 
